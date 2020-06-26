@@ -1,2 +1,2 @@
 # hello-world
-hello world programme
+this is just a hello world programme
